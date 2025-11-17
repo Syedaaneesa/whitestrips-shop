@@ -1,7 +1,5 @@
 # WhiteStrips-Shop
 
-![Banner](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Crest-Whitestrips-Bestel-vanaf-%E2%82%AC37-95-Origineel-uit-de-VS-11-17-2025_06_55_PM.png)
-
 ## Project Overview
 **WhiteStrips-Shop** is a fully functional WordPress e-commerce website designed to sell teeth whitening products. This project demonstrates my skills in WordPress development, theme customization, and building a user-friendly online store. The website is responsive, visually appealing, and optimized for smooth navigation and a seamless shopping experience.
 
