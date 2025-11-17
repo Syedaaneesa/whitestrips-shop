@@ -20,14 +20,15 @@ Here are some screenshots of the website showcasing different pages and features
 ### Homepage
 ![Homepage](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Crest-Whitestrips-Bestel-vanaf-%E2%82%AC37-95-Origineel-uit-de-VS-11-17-2025_06_55_PM.png)
 
+### Checkout
+![Checkout](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Webwinkel-Crest-Whitestrips-Bestel-hier-vanaf-%E2%82%AC37-95-11-17-2025_06_56_PM.png)
+
 ### Product Page
 ![Product Page](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Crest-Whitestrips-Bestel-vanaf-%E2%82%AC37-95-Origineel-uit-de-VS-11-17-2025_06_58_PM.png)
 
 ### Shopping Cart
 ![Cart](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Kassa-%E2%80%93-Whitestrips-shop-nl-11-17-2025_06_59_PM.png)
 
-### Checkout
-![Checkout](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Webwinkel-Crest-Whitestrips-Bestel-hier-vanaf-%E2%82%AC37-95-11-17-2025_06_56_PM.png)
 
 > Replace `image1.png`, `image2.png`, etc. with your actual image filenames.
 
@@ -46,7 +47,4 @@ This project involved extensive work in the following areas:
 - WooCommerce for e-commerce functionality  
 - Various WordPress plugins for performance, SEO, and security  
 
-## How to Run Locally
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Syedaaneesa/whitestrips-shop.git
+
