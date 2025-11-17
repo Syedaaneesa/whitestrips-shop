@@ -28,8 +28,6 @@ Here are some screenshots of the website showcasing different pages and features
 ![Cart](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Kassa-%E2%80%93-Whitestrips-shop-nl-11-17-2025_06_59_PM.png)
 
 
-> Replace `image1.png`, `image2.png`, etc. with your actual image filenames.
-
 ## Efforts and Resources
 This project involved extensive work in the following areas:  
 - Designing and customizing a WordPress theme to match the branding of WhiteStrips-Shop.  
