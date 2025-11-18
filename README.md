@@ -13,7 +13,7 @@
 - Engaging UI with modern design elements
 
 ## Screenshots
-Here are some screenshots of the website showcasing different pages and features:
+Here are a few screenshots highlighting various pages and features of the website:
 
 ### Homepage
 ![Homepage](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Crest-Whitestrips-Bestel-vanaf-%E2%82%AC37-95-Origineel-uit-de-VS-11-17-2025_06_55_PM.png)
@@ -34,10 +34,13 @@ This project involved extensive work in the following areas:
 - Testing the website across multiple devices and browsers to guarantee consistent performance.
 
 ## Technologies Used
-- WordPress CMS  
-- Elementor Page Builder  
-- HTML, CSS, JavaScript  
-- WooCommerce for e-commerce functionality  
-- Various WordPress plugins for performance, SEO, and security  
+WordPress CMS
 
+Elementor Page Builder
+
+HTML, CSS, and JavaScript
+
+WooCommerce for e-commerce features
+
+Additional WordPress plugins for performance, SEO, and security
 
