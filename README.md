@@ -1,7 +1,7 @@
 # WhiteStrips-Shop
 
 ## Project Overview
-WhiteStrips-Shop is a fully functional WordPress e-commerce website designed for selling teeth-whitening products. This project demonstrates my skills in WordPress development, theme customization, and building a user-friendly online store. The site is fully responsive, visually engaging, and optimized for smooth navigation and a seamless shopping experience.
+WhiteStrips-Shop is a fully functional WordPress e-commerce website created to sell teeth-whitening products. This project highlights my expertise in WordPress development, theme customization, and building an intuitive online store. The site is fully responsive, visually appealing, and optimized for smooth navigation and a seamless shopping experience.
 
 ## Features
 - Custom WordPress theme development
@@ -13,7 +13,7 @@ WhiteStrips-Shop is a fully functional WordPress e-commerce website designed for
 - Engaging UI with modern design elements
 
 ## Screenshots
-Here are a few screenshots highlighting various pages and features of the website:
+Here are several screenshots showcasing the website’s pages and key features:
 
 ### Homepage
 ![Homepage](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Crest-Whitestrips-Bestel-vanaf-%E2%82%AC37-95-Origineel-uit-de-VS-11-17-2025_06_55_PM.png)
@@ -26,20 +26,22 @@ Here are a few screenshots highlighting various pages and features of the websit
 
 
 ## Efforts and Resources
-This project involved extensive work in the following areas:  
-Designed and customized a WordPress theme to reflect WhiteStrips-Shop’s branding.
+This project encompassed work in the following areas:
 
-Created responsive layouts using Elementor and custom CSS for a seamless user experience.
+Designed and tailored a WordPress theme to align with WhiteStrips-Shop’s branding
 
-Integrated key WordPress plugins to enhance functionality, security, and performance.
+Developed responsive layouts with Elementor and custom CSS to ensure a seamless user experience
 
-Optimized media assets and site structure for fast loading and SEO readiness.
+Implemented essential WordPress plugins to improve functionality, security, and overall performance
 
-Conducted thorough testing across devices and browsers to ensure consistent performance.
+Optimized media files and site architecture for faster loading times and SEO readiness
+
+Performed comprehensive testing across devices and browsers to ensure consistent performance
 
 ## Technologies Used
-WordPress CMS
-Developed with Elementor Page Builder
+Built on the WordPress CMS
+
+Designed using Elementor Page Builder
 
 Applied custom styling using HTML, CSS, and JavaScript
 
