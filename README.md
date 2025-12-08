@@ -1,19 +1,25 @@
 # WhiteStrips-Shop
 
 ## Project Overview
-WhiteStrips-Shop is a fully functional WordPress e-commerce website created to sell teeth-whitening products. This project highlights my expertise in WordPress development, theme customization, and building an intuitive online store. The site is fully responsive, visually appealing, and optimized for smooth navigation and a seamless shopping experience.
+WhiteStrips-Shop is a fully developed WordPress e-commerce website designed for selling teeth-whitening products. This project showcases my skills in WordPress development, theme customization, and creating a user-friendly online store. The site is fully responsive, visually engaging, and optimized for smooth navigation and a seamless shopping experience.
 
 ## Features
-- Custom WordPress theme development
-- Fully responsive design for desktop, tablet, and mobile
-- E-commerce functionality with product listings, shopping cart, and checkout
-- SEO-friendly structure
-- Optimized performance and fast loading times
-- Integration of plugins for enhanced functionality (e.g., contact forms, security, caching)
-- Engaging UI with modern design elements
+Developed a custom WordPress theme
+
+Delivered a fully responsive layout for desktop, tablet, and mobile
+
+Implemented e-commerce features including product pages, cart, and checkout
+
+Built with an SEO-friendly site structure
+
+Optimized for fast loading and high performance
+
+Integrated essential plugins for added functionality (contact forms, security, caching, etc.)
+
+Designed a modern, engaging user interface
 
 ## Screenshots
-Here are several screenshots showcasing the website’s pages and key features:
+Here are a few screenshots highlighting the website’s pages and main features.
 
 ### Homepage
 ![Homepage](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Crest-Whitestrips-Bestel-vanaf-%E2%82%AC37-95-Origineel-uit-de-VS-11-17-2025_06_55_PM.png)
@@ -26,26 +32,25 @@ Here are several screenshots showcasing the website’s pages and key features:
 
 
 ## Efforts and Resources
-This project encompassed work in the following areas:
+The project included:
 
-Designed and tailored a WordPress theme to align with WhiteStrips-Shop’s branding
+Crafting a tailored WordPress theme aligned with WhiteStrips-Shop’s brand identity
 
-Developed responsive layouts with Elementor and custom CSS to ensure a seamless user experience
+Building responsive designs with Elementor and custom CSS for smooth navigation
 
-Implemented essential WordPress plugins to improve functionality, security, and overall performance
+Setting up key WordPress plugins to boost functionality, security, and site efficiency
 
-Optimized media files and site architecture for faster loading times and SEO readiness
+Optimizing images and site architecture for speed and SEO optimization
 
-Performed comprehensive testing across devices and browsers to ensure consistent performance
-
+Testing extensively across devices and browsers to maintain consistent performance
 ## Technologies Used
-Built on the WordPress CMS
+Developed on the WordPress CMS
 
-Designed using Elementor Page Builder
+Designed with Elementor Page Builder
 
-Applied custom styling using HTML, CSS, and JavaScript
+Applied custom styling through HTML, CSS, and JavaScript
 
-Integrated WooCommerce to enable full e-commerce functionality
+Integrated WooCommerce for complete e-commerce functionality
 
-Added essential plugins to enhance performance, SEO, and security
+Added key plugins to improve performance, SEO, and security
 
