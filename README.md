@@ -1,7 +1,7 @@
 # WhiteStrips-Shop
 
 ## Project Overview
-WhiteStrips-Shop is a fully-featured WordPress e-commerce platform for premium teeth-whitening products. This project demonstrates my expertise in WordPress development, custom theme design, and crafting a seamless, user-friendly shopping experience. The site is fully responsive, visually appealing, and optimized for fast browsing and smooth, hassle-free checkout.
+WhiteStrips-Shop is a comprehensive WordPress e-commerce site for premium teeth-whitening products. This project showcases my skills in WordPress development, custom theme creation, and delivering a seamless, user-friendly shopping experience. The site is fully responsive, visually engaging, and optimized for fast browsing and effortless checkout.
 
 ## Features
 Developed a fully custom WordPress theme from scratch
@@ -34,23 +34,23 @@ Here are a few screenshots highlighting the website’s pages and main features.
 ## Efforts and Resources
 The project included:
 
-Developed a custom WordPress theme that embodies the WhiteStrips-Shop brand identity
+Built a custom WordPress theme reflecting the WhiteStrips-Shop brand identity
 
-Designed fully responsive layouts with Elementor and custom CSS for smooth, intuitive navigation
+Created fully responsive Elementor layouts with custom CSS for intuitive, seamless navigation
 
-Configured key WordPress plugins to boost functionality, security, and overall site efficiency
+Configured essential WordPress plugins to enhance functionality, security, and overall site efficiency
 
-Optimized images and site structure to enhance loading speed and SEO performance
+Optimized images and site structure to improve load times and SEO performance
 
-Performed comprehensive testing across devices and browsers to ensure consistent, reliable performance
+Conducted thorough testing across devices and browsers to ensure consistent, reliable performance
 ## Technologies Used
 Developed on the WordPress CMS
 
-Crafted layouts using Elementor Page Builder
+Designed page layouts using Elementor Page Builder
 
-Applied custom styles with HTML, CSS, and JavaScript
+Applied custom styling with HTML, CSS, and JavaScript
 
-Integrated WooCommerce to deliver full e-commerce functionality
+Integrated WooCommerce for complete e-commerce functionality
 
-Configured essential plugins to enhance performance, SEO, and site security
+Configured key plugins to improve performance, SEO, and site security
 
