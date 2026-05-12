@@ -34,15 +34,16 @@ Here are a few screenshots highlighting the website’s pages and main features.
 ## Efforts and Resources
 The project included:
 
-Developed a custom WordPress theme that embodies the WhiteStrips-Shop brand identity.
+Developed a custom WordPress theme that reflects the WhiteStrips-Shop brand identity and ensures a consistent visual experience.
 
-Designed fully responsive Elementor layouts, enhanced with custom CSS for smooth and intuitive navigation.
+Designed fully responsive Elementor-based layouts, enhanced with custom CSS for smooth, intuitive, and user-friendly navigation.
 
-Configured and implemented essential WordPress plugins to boost functionality, security, and overall site performance.
+Configured and integrated essential WordPress plugins to improve functionality, security, and overall website performance.
 
-Optimized images and site architecture to enhance loading speed and SEO performance.
+Optimized images and site structure to enhance loading speed, performance, and SEO effectiveness.
 
-Performed comprehensive cross-browser and cross-device testing to ensure consistent and reliable user experience.
+Conducted thorough cross-browser and cross-device testing to ensure a consistent, reliable, and seamless user experience across all platforms.
+
 ## Technologies Used
 Developed on the WordPress CMS
 Crafted page layouts using the Elementor Page Builder.
