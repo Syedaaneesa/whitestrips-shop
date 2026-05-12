@@ -4,19 +4,19 @@
 WhiteStrips-Shop is a fully functional WordPress e-commerce website offering premium teeth-whitening products. This project highlights my expertise in WordPress development, custom theme design, and building a smooth, user-friendly shopping experience. The website is fully responsive, visually appealing, and optimized for fast performance, seamless navigation, and an efficient checkout process.
 
 ## Features
-Built a fully custom WordPress theme from the ground up.
+Built a fully custom WordPress theme from scratch, ensuring flexibility and scalability.
 
-Designed a fully responsive layout optimized for desktop, tablet, and mobile devices.
+Developed a fully responsive design optimized for desktop, tablet, and mobile devices.
 
-Implemented complete e-commerce functionality, including product catalog, shopping cart, and checkout workflow.
+Implemented complete e-commerce functionality, including product catalog, shopping cart, and streamlined checkout process.
 
-Organized the site structure following SEO best practices to enhance search engine visibility.
+Structured the website using SEO best practices to improve search engine visibility and ranking.
 
-Optimized site speed and performance for fast, seamless browsing.
+Optimized performance and loading speed for a smooth and efficient user experience.
 
-Integrated essential plugins for security, caching, and contact management.
+Integrated essential plugins for security, caching, and contact form management.
 
-Crafted a clean, modern, and visually engaging user interface.
+Designed a clean, modern, and visually appealing user interface focused on usability and engagement.
 
 ## Screenshots
 Here are a few screenshots highlighting the website’s pages and main features.
