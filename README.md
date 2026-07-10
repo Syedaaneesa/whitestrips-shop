@@ -4,7 +4,7 @@
 
 WhiteStrips-Shop is a fully functional WordPress e-commerce website offering premium teeth-whitening products. This project highlights my expertise in WordPress development, custom theme design, and building a smooth, user-friendly shopping experience. The website is fully responsive, visually appealing, and optimized for fast performance, seamless navigation, and an efficient checkout process.
 
-***Live Link: [WhiteStrips-Shop Link](https://whitestrips-shop.nl/)***
+Live Link: [WhiteStrips-Shop Link](https://whitestrips-shop.nl/)
 -------
 
 ## Features
