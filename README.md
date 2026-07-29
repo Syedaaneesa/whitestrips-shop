@@ -10,17 +10,11 @@ WhiteStrips-Shop is a fully functional WordPress e-commerce website offering pre
 ## Features
 
 Built a fully custom WordPress theme from scratch, ensuring flexibility and scalability.
-
 Developed a fully responsive design optimized for desktop, tablet, and mobile devices.
-
 Implemented complete e-commerce functionality, including product catalog, shopping cart, and streamlined checkout process.
-
 Structured the website using SEO best practices to improve search engine visibility and ranking.
-
 Optimized performance and loading speed for a smooth and efficient user experience.
-
 Integrated essential plugins for security, caching, and contact form management.
-
 Designed a clean, modern, and visually appealing user interface focused on usability and engagement.
 
 ## Screenshots
@@ -39,23 +33,15 @@ Here are a few screenshots highlighting the website’s pages and main features.
 ## Efforts and Resources
 
 Developed a custom WordPress theme that reflects the WhiteStrips-Shop brand identity and ensures a consistent visual experience.
-
 Designed fully responsive Elementor-based layouts, enhanced with custom CSS for smooth, intuitive, and user-friendly navigation.
-
 Configured and integrated essential WordPress plugins to improve functionality, security, and overall website performance.
-
 Optimized images and site structure to enhance loading speed, performance, and SEO effectiveness.
-
 Conducted thorough cross-browser and cross-device testing to ensure a consistent, reliable, and seamless user experience across all platforms.
 
 ## Technologies Used
 Developed on the WordPress CMS
-
 Crafted page layouts using the Elementor Page Builder.
-
 Applied custom styling with HTML, CSS, and JavaScript for a refined look and feel.
-
 Integrated WooCommerce to provide full e-commerce functionality.
-
 Configured essential plugins to optimize performance, SEO, and website security.
 
