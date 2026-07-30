@@ -5,7 +5,7 @@
 WhiteStrips-Shop is a fully functional WordPress e-commerce website offering premium teeth-whitening products. This project highlights my expertise in WordPress development, custom theme design, and building a smooth, user-friendly shopping experience. The website is fully responsive, visually appealing, and optimized for fast performance, seamless navigation, and an efficient checkout process.
 
 #### Live Link: [https://whitestrips-shop.nl](https://whitestrips-shop.nl/)
--------
+
 
 ## Features
 
@@ -44,4 +44,8 @@ Crafted page layouts using the Elementor Page Builder.
 Applied custom styling with HTML, CSS, and JavaScript for a refined look and feel.
 Integrated WooCommerce to provide full e-commerce functionality.
 Configured essential plugins to optimize performance, SEO, and website security.
+
+## About Developer
+Syeda Aneesa
+s.shujaat05@gmail.com
 
