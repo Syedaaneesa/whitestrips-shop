@@ -23,9 +23,6 @@ Here are a few screenshots highlighting the website’s pages and main features.
 ### Homepage
 ![Homepage](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Crest-Whitestrips-Bestel-vanaf-%E2%82%AC37-95-Origineel-uit-de-VS-11-17-2025_06_55_PM.png)
 
-### Checkout
-![Checkout](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/Webwinkel-Crest-Whitestrips-Bestel-hier-vanaf-%E2%82%AC37-95-11-17-2025_06_56_PM.png)
-
 ### Shopping Cart
 ![Cart](https://github.com/Syedaaneesa/whitestrips-shop/blob/main/WhatsApp%20Image%202025-11-17%20at%207.19.21%20PM.jpeg)
 
