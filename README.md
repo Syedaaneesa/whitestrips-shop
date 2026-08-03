@@ -44,5 +44,5 @@ Configured essential plugins to optimize performance, SEO, and website security.
 
 ## About Developer
 Syeda Aneesa
-s.shujaat05@gmail.com
+*Email: s.shujaat05@gmail.com
 
