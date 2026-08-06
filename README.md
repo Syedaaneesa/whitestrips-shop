@@ -43,6 +43,6 @@ Integrated WooCommerce to provide full e-commerce functionality.
 Configured essential plugins to optimize performance, SEO, and website security.
 
 ## About Developer
-Syeda Aneesa
+Name: Syeda Aneesa
 *Email: s.shujaat05@gmail.com
 
